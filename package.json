@@ -1,0 +1,13 @@
+{
+  "name": "discord-hello-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that replies hello to !hi command.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.0",
+    "dotenv": "^16.4.5"
+  }
+}
